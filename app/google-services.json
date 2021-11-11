@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "701616185175",
+    "firebase_url": "https://roktodaan.firebaseio.com",
+    "project_id": "roktodaan",
+    "storage_bucket": "roktodaan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701616185175:android:83caa863d9f5be7c5a2812",
+        "android_client_info": {
+          "package_name": "com.example.roktodaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701616185175-s9ddnfjuir143p4mjn3plan4kukhoqc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roktodaan",
+            "certificate_hash": "4b5792f641c35b62c5a4a337b16685e1536b1c26"
+          }
+        },
+        {
+          "client_id": "701616185175-820tlnevv1v5ubonnfk8ii4unl3mrq7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpnBcBUBI2sHIniWtm43jDYgfcqENqwhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701616185175-820tlnevv1v5ubonnfk8ii4unl3mrq7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Roktodaan</string>
+
+    <array name="BloodGroup">
+
+        <item>A+</item>item>
+        <item>A-</item>item>
+        <item>B+</item>item>
+        <item>B-</item>item>
+        <item>AB+</item>item>
+        <item>AB-</item>item>
+        <item>O+</item>item>
+        <item>O-</item>item>
+
+    </array>
+</resources>
